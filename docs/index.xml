@@ -54,19 +54,16 @@ To add new posts, simply add a file in the content/post directory that follows t
     </item>
     
     <item>
-      <title>O projektu</title>
+      <title></title>
       <link>https://candycanelane94.github.io/hugo-start/o-projektu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://candycanelane94.github.io/hugo-start/o-projektu/</guid>
-      <description>O projektu
-Cílová skupina:
-Lidé, kteří poslouchají Nirvanu a styl hudby grunge, popř. rock, punk, hardcore atd.
-Cíl webu:
-Přiblížit zájemcům život Kurta Cobaina a kapelu Nirvana, podrobněji popsat tvorbu kapely aspekty, které ji ovlivňovaly.
-Název webu:
-Kurt Cobain a Nirvana
-Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti: 1. {oficiální stránky Nirvany} 2. {biografie na serveru Rolling Stones} 3. {článek o desce In Utero} 4. {stránka o jejich koncertech} 5.</description>
+      <description>Kurt Cobain a NirvanaO chytrém ševci a hloupém èertoviDescription of my new site.
+O projektuCílová skupina:Lidé, kteří poslouchají Nirvanu a styl hudby grunge, popř. rock, punk, hardcore atd.
+Cíl webu:Přiblížit zájemcům život Kurta Cobaina a kapelu Nirvana, podrobněji popsat tvorbu kapely aspekty, které ji ovlivňovaly.
+Název webu:Kurt Cobain a Nirvana
+Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti:oficiální stránky Nirvanybiografie na serveru Rolling Stonesčlánek o desce In Uterostránka o jejich koncertechNirvana Interview Canada, 1991jeden z posledních Cobainových rozhovorůrozhovor z 13.</description>
     </item>
     
   </channel>
