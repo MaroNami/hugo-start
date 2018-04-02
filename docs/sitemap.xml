@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://candycanelane94.github.io/hugo-start/post/team/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candycanelane94.github.io/hugo-start/post/another-post/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
   </url>
@@ -87,6 +92,18 @@
   <url>
     <loc>https://candycanelane94.github.io/hugo-start/tags/</loc>
     <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candycanelane94.github.io/hugo-start/tags/team/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://candycanelane94.github.io/hugo-start/tags/t%C3%BDm/</loc>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

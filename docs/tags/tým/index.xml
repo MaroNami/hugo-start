@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project on O chytrém ševci a hloupém čertovi</title>
-    <link>https://candycanelane94.github.io/hugo-start/tags/project/</link>
-    <description>Recent content in Project on O chytrém ševci a hloupém čertovi</description>
+    <title>Tým on O chytrém ševci a hloupém čertovi</title>
+    <link>https://candycanelane94.github.io/hugo-start/tags/t%C3%BDm/</link>
+    <description>Recent content in Tým on O chytrém ševci a hloupém čertovi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://candycanelane94.github.io/hugo-start/tags/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://candycanelane94.github.io/hugo-start/tags/t%C3%BDm/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Kurt Cobain a Nirvana</title>
-      <link>https://candycanelane94.github.io/hugo-start/post/song/</link>
-      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candycanelane94.github.io/hugo-start/post/song/</guid>
-      <description>Toto video jsem zvolila proto, že se tematicky vztahuje k našemu semestrálnímu projektu.
- </description>
-    </item>
     
     <item>
       <title>O týmu</title>
