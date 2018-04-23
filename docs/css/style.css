@@ -1,17 +1,22 @@
 .wrapper {
-  margin: 30px auto;
-  max-width: 800px;
+  margin: 40px auto;
+  max-width: 1400px;
   padding: 20px;
+  color: white;
+  background-image: url('https://hermants.files.wordpress.com/2011/07/nirvana-logo.jpg');
 }
 
 header {
-  padding: 30px 0 0;
+  padding: 35px 0 0;
   border-bottom: solid;
+  background-image: url('https://images-na.ssl-images-amazon.com/images/I/61Uf%2BRyR4NL._SX425_.jpg');
 }
 
 footer {
   border-top: solid;
   clear: both;
+  color:white;
+  background-image: url('https://images-na.ssl-images-amazon.com/images/I/61Uf%2BRyR4NL._SX425_.jpg');
 }
 
 .page {
@@ -21,14 +26,15 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
-  background-color: black;
+  color: yellow;
+  background: black;
+  font-style: oblique;
 }
 
 aside {
   float: left;
   width: 25%;
   margin-top: 1em;
-  background-image: url('https://cdn.pixabay.com/photo/2015/10/14/12/52/plaid-987605_960_720.jpg');
 }
 
 nav ul {
