@@ -6,10 +6,30 @@
     <description>Recent content in Archive on Kurt Cobain a Nirvana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 May 2018 11:34:34 +0200</lastBuildDate>
     
 	<atom:link href="https://candycanelane94.github.io/hugo-start/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post</title>
+      <link>https://candycanelane94.github.io/hugo-start/post/clanek/</link>
+      <pubDate>Wed, 02 May 2018 11:34:34 +0200</pubDate>
+      
+      <guid>https://candycanelane94.github.io/hugo-start/post/clanek/</guid>
+      <description>Grunge Co je to vlastně grunge? Grunge je název hudebního stylu který se vyvinul zhruba v první polovině osmdesátých let a jeho rodištěm je město Seattle a jeho okolí. Grungeová scéna byla tudíž ve srovnání s jinými žánry velice lokální. Drtivá většina velkých Grungeových kapel pochází právě odsud.
+Hudebně se tento Seattlský sound, jak se stylu říká, řadí jako podoblast alternativního rocku a vychází mimo jiné z punk rocku, s nimž sdílí neuhlazenost, vztek, revoltu a divokost, na druhé straně z hard rocku a heavy metalu, který ho činí, narozdíl od punku, sofistikovanějším a hráčsky náročnějším.</description>
+    </item>
+    
+    <item>
+      <title>Prodej</title>
+      <link>https://candycanelane94.github.io/hugo-start/post/prodej/</link>
+      <pubDate>Mon, 23 Apr 2018 17:01:52 +0200</pubDate>
+      
+      <guid>https://candycanelane94.github.io/hugo-start/post/prodej/</guid>
+      <description>Prodej alb Nirvany (https://www.statisticbrain.com/nirvana-album-sales-statistics/)
+Tento web poskytuje data o prodeji studiových, live a kompilačních alb kapely Nirvana a dále také zahrnuje data o prodeji box setů a jednotlivých singlů. U jednotlivých alb, singlů a box setů jsou informace o počtu prodaných kusů, roku vydání a umístění v žebříčku. V další části jsou mimo jiné i přesné počty vydaných alb, singlů, hudebních videí atd. Data by mohla být využita pro lepší orientaci čtenáře v oblasti tvorby kapely a pro přehled popularity jednotlivých alb a singlů.</description>
+    </item>
     
     <item>
       <title>Kurt Cobain a Nirvana</title>
