@@ -6,6 +6,10 @@
   background-image: url('https://hermants.files.wordpress.com/2011/07/nirvana-logo.jpg');
 }
 
+h1 > a {
+  color: #FFFFFF;
+}
+
 header {
   padding: 35px 0 0;
   border-bottom: solid;

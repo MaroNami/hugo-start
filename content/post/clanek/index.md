@@ -1,9 +1,8 @@
 ---
-title: "Post"
+title: "Grunge"
 date: 2018-05-02T11:34:34+02:00
 ---
 
-# Grunge
 
 ## Co je to vlastně grunge?
 
