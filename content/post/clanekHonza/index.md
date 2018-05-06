@@ -1,10 +1,9 @@
 ---
-title: "Post"
+title: "Dospívání Kurta Cobaina"
 date: 2018-05-02T18:27:12+02:00
 
 ---
 
-# Dospívání Kurta Cobaina
 
 Kurt byl prvním synem Wendy a Dona Cobainových a také prvním vnoučetem v rodině, takže ho všichni často navštěvovali. Už od malička byl velmi nadaný a rád kreslil, zpíval a učil se hrát na kytaru. Jako dítě byl plný energie a stále potřeboval něco dělat. Následně mu byla diagnostikována hyperaktivita a byl mu předepsán lék Ritalin, který, jak sám Cobain uvádí, hrál v jeho životě důležitou roli.
 
