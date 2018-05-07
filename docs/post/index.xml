@@ -61,5 +61,15 @@ motivace výběru tématu: společná záliba v poslechu této muziky
 více o projektu: projekt vzniká v rámci předmětu Nástroje a možnosti internetu</description>
     </item>
     
+    <item>
+      <title>Pilotní článek webu s videoklipem Lithium</title>
+      <link>https://candycanelane94.github.io/hugo-start/post/song/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://candycanelane94.github.io/hugo-start/post/song/</guid>
+      <description>Toto video jsem zvolila proto, že se tematicky vztahuje k našemu semestrálnímu projektu.
+ </description>
+    </item>
+    
   </channel>
 </rss>
