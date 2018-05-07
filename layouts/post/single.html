@@ -1,9 +1,9 @@
 {{ define "main" }}
-{{ partial "addthis" . }}
   <h1>{{ .Title }}</h1>
-  {{ partial "like" . }}
   <p class="date">{{ .Date.Local.Format "January 2, 2006" }}</p>
+  {{ partial "addthis" . }}
   {{ .Content }}
+  {{ partial "like" . }}
 {{ partial "addthis-script" . }}
   
 {{ end }}
