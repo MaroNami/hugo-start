@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://candycanelane94.github.io/hugo-start/post/clanekhonza/</loc>
+    <lastmod>2018-05-02T18:27:12+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://candycanelane94.github.io/hugo-start/post/clanek/</loc>
     <lastmod>2018-05-02T11:34:34+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://candycanelane94.github.io/hugo-start/post/nevermind/album_nevermind/</loc>
+    <loc>https://candycanelane94.github.io/hugo-start/post/nevermind/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,16 +33,6 @@
   </url>
   
   <url>
-    <loc>https://candycanelane94.github.io/hugo-start/post/another-post/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://candycanelane94.github.io/hugo-start/post/welcome-to-hugo/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://candycanelane94.github.io/hugo-start/o-projektu/</loc>
   </url>
   
@@ -51,13 +46,7 @@
   
   <url>
     <loc>https://candycanelane94.github.io/hugo-start/post/</loc>
-    <lastmod>2018-05-02T11:34:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://candycanelane94.github.io/hugo-start/tags/beatles/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2018-05-02T18:27:12+02:00</lastmod>
   </url>
   
   <url>
@@ -66,26 +55,8 @@
   </url>
   
   <url>
-    <loc>https://candycanelane94.github.io/hugo-start/tags/data/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://candycanelane94.github.io/hugo-start/tags/hello-world/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://candycanelane94.github.io/hugo-start/</loc>
-    <lastmod>2018-05-02T11:34:34+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://candycanelane94.github.io/hugo-start/tags/hugo/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2018-05-02T18:27:12+02:00</lastmod>
   </url>
   
   <url>
@@ -107,14 +78,8 @@
   </url>
   
   <url>
-    <loc>https://candycanelane94.github.io/hugo-start/tags/start/</loc>
-    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://candycanelane94.github.io/hugo-start/tags/</loc>
-    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

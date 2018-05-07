@@ -2,26 +2,23 @@
 title: Home
 ---
 
-# Hello World! (It works!)
+# Lithium
 
-This are the contents of the Hugo start website front page.
 
-## Something to read: Sonnet LXVI.
-
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
+> *I'm so happy 'cause today I found my friends  
+> They're in my head
+> I'm so ugly, that's okay, 'cause so are you
+> We broke our mirrors
+> Sunday mornin' is everyday for all I care  
+> And I'm not scared  
+> Light my candles in a daze 'cause I've found God  
+>  
+> Yeah, yeah  
+> Yeah, yeah  
+> Yeah, yeah  
+> Yeah, yeah 
+> Yeah, yeah  
+> Yeah, yeah, yeah, yeah*
 > 
-> William Shakespeare
+> Kurt Cobain
 
