@@ -22,3 +22,4 @@ title: Home
 > 
 > Kurt Cobain
 
+<img src ="nirvana.png" alt="Nirvana" style="width: 200px;"/>
