@@ -1,5 +1,5 @@
 ---
-title:  "Kurt Cobain a Nirvana"
+title:  "Pilotní článek webu s videoklipem Lithium"
 date:   2018-04-02
 tags: 
     - project

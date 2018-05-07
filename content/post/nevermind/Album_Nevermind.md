@@ -18,4 +18,4 @@ Album Nevermind bylo vydáno **24. září 1991** (mimochodem ve stejný den vy�
 
 Album bylo kritiky přijato převážně pozitivně. Několik významných amerických periodik udělilo Nevermind pět hvězdiček z pěti možných, avšak populární magazín Rolling Stone udělil pouze čtyři hvězdy. Britský hudební časopis NME na stupnici od jedné do deseti udělil devítku. Později při tvorbě žebříčku nejlepších pětset alb se Nevermind v Rolling Stone dostalo na sedmnácté místo a v NME na jedenáctou pozici.
 
-<img src="nevermind.jpg" alt="Grunge" style="width: 200px;"/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hTWKbfoikeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
