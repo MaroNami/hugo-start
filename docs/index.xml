@@ -12,31 +12,32 @@
     
     
     <item>
-      <title>Post</title>
+      <title>Dospívání Kurta Cobaina</title>
       <link>https://candycanelane94.github.io/hugo-start/post/clanekhonza/</link>
       <pubDate>Wed, 02 May 2018 18:27:12 +0200</pubDate>
       
       <guid>https://candycanelane94.github.io/hugo-start/post/clanekhonza/</guid>
-      <description>Dospívání Kurta Cobaina Kurt byl prvním synem Wendy a Dona Cobainových a také prvním vnoučetem v rodině, takže ho všichni často navštěvovali. Už od malička byl velmi nadaný a rád kreslil, zpíval a učil se hrát na kytaru. Jako dítě byl plný energie a stále potřeboval něco dělat. Následně mu byla diagnostikována hyperaktivita a byl mu předepsán lék Ritalin, který, jak sám Cobain uvádí, hrál v jeho životě důležitou roli.</description>
+      <description>Kurt byl prvním synem Wendy a Dona Cobainových a také prvním vnoučetem v rodině, takže ho všichni často navštěvovali. Už od malička byl velmi nadaný a rád kreslil, zpíval a učil se hrát na kytaru. Jako dítě byl plný energie a stále potřeboval něco dělat. Následně mu byla diagnostikována hyperaktivita a byl mu předepsán lék Ritalin, který, jak sám Cobain uvádí, hrál v jeho životě důležitou roli.
+Když bylo Kurtovi devět let, jeho rodiče se rozvedli, což velmi ovlivnilo jeho život a utváření osobnosti.</description>
     </item>
     
     <item>
-      <title>Post</title>
+      <title>Grunge</title>
       <link>https://candycanelane94.github.io/hugo-start/post/clanek/</link>
       <pubDate>Wed, 02 May 2018 11:34:34 +0200</pubDate>
       
       <guid>https://candycanelane94.github.io/hugo-start/post/clanek/</guid>
-      <description>Grunge Co je to vlastně grunge? Grunge je název hudebního stylu, který se vyvinul zhruba v první polovině osmdesátých let a jeho rodištěm je město Seattle a jeho okolí. Grungeová scéna byla tudíž ve srovnání s jinými žánry velice lokální, proto drtivá většina velkých grungeových kapel pochází právě odsud.
+      <description>Co je to vlastně grunge? Grunge je název hudebního stylu, který se vyvinul zhruba v první polovině osmdesátých let a jeho rodištěm je město Seattle a jeho okolí. Grungeová scéna byla tudíž ve srovnání s jinými žánry velice lokální, proto drtivá většina velkých grungeových kapel pochází právě odsud.
 Hudebně se tento &amp;ldquo;Seattlský sound&amp;rdquo;, jak se stylu říká, řadí jako podoblast alternativního rocku a vychází mimo jiné z punk rocku, s nimž sdílí neuhlazenost, vztek, revoltu a divokost, na druhé straně z hard rocku a heavy metalu, který ho činí, na rozdíl od punku, sofistikovanějším a hráčsky náročnějším.</description>
     </item>
     
     <item>
       <title>Album Nevermind</title>
-      <link>https://candycanelane94.github.io/hugo-start/post/nevermind/album_nevermind/</link>
+      <link>https://candycanelane94.github.io/hugo-start/post/nevermind/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://candycanelane94.github.io/hugo-start/post/nevermind/album_nevermind/</guid>
-      <description>Okolnosti vzniku alba Na začátku roku 1990 začala Nirvana připravovat své druhé album. Nahrávací společnost Sub Pop jako producenta doporučila Butche Viga, se kterým se skupina setkala při prvním nahráváním v dubnu téhož roku. Ještě ve studiu Kurt Cobain pracoval na textech jednotlivých skladeb. Během pěti dnů se podařilo nahrát osm písní, m.j. In Bloom , Lithium, Breed a Polly. Po nahrávání odjela Nirvana na 39denní turné. Po něm byl nahrazen dosavadní bubeník Chad Channing a na jeho místo přišel Dave Grohl.</description>
+      <guid>https://candycanelane94.github.io/hugo-start/post/nevermind/</guid>
+      <description>Okolnosti vzniku alba Na začátku roku 1990 začala Nirvana připravovat své druhé album. Nahrávací společnost Sub Pop jako producenta doporučila Butche Viga, se kterým se skupina setkala při prvním nahráváním v dubnu téhož roku. Ještě ve studiu Kurt Cobain pracoval na textech jednotlivých skladeb. Během pěti dnů se podařilo nahrát osm písní m.j. In Bloom , Lithium, Breed a Polly. Po nahrávání odjela Nirvana na devětatřicetidenní turné. Po něm byl nahrazen dosavadní bubeník Chad Channing.</description>
     </item>
     
     <item>
@@ -71,33 +72,12 @@ více o projektu: projekt vzniká v rámci předmětu Nástroje a možnosti inte
     </item>
     
     <item>
-      <title>All albums of The Beatles</title>
-      <link>https://candycanelane94.github.io/hugo-start/post/another-post/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candycanelane94.github.io/hugo-start/post/another-post/</guid>
-      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Hugo!</title>
-      <link>https://candycanelane94.github.io/hugo-start/post/welcome-to-hugo/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://candycanelane94.github.io/hugo-start/post/welcome-to-hugo/</guid>
-      <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://candycanelane94.github.io/hugo-start/o-projektu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://candycanelane94.github.io/hugo-start/o-projektu/</guid>
-      <description>Kurt Cobain a NirvanaO chytrém ševci a hloupém èertoviDescription of my new site.
+      <description>Kurt Cobain a NirvanaKurt Cobain a NirvanaŽivot Kurta Cobaina a cesta kapely Nirvana
 O projektuCílová skupina:Lidé, kteří poslouchají Nirvanu a styl hudby grunge, popř. rock, punk, hardcore atd.
 Cíl webu:Přiblížit zájemcům život Kurta Cobaina a kapelu Nirvana, podrobněji popsat tvorbu kapely aspekty, které ji ovlivňovaly.
 Název webu:Kurt Cobain a Nirvana
@@ -125,10 +105,10 @@ Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné obla
       
       <guid>https://candycanelane94.github.io/hugo-start/about/</guid>
       <description>CÍLOVÁ SKUPINA: lidé, kteří poslouchají Nirvanu a styl hudby grunge, popř. rock, punk, hardcore atd.
-CÍL WEBU: přiblížit lidem život Kurta Cobaina a kapelu Nirvana, podrobněji popsat tvorbu kapely a aspekty, které je ovlivňovaly
+ CÍL WEBU: přiblížit lidem život Kurta Cobaina a kapelu Nirvana, podrobněji popsat tvorbu kapely a aspekty, které je ovlivňovaly
 NÁZEV WEBU: Kurt Cobain a Nirvana
 SEZNAM ALESPOŇ 5 ZÁSADNÍCH WEBOVÝCH ZDROJŮ, KTERÉ SE VĚNUJÍ STEJNÉ OBLASTI: http://www.nirvana.com/ https://alterecho.muzikus.cz/altersfera/za-oponou/za-oponou-nirvana-in-utero.html https://www.livenirvana.com/ https://www.rollingstone.com/music/artists/nirvana/biography
-dále také rozhovory s Cobainem a Nirvanou, které jsou nahrané na YouTube, např.: https://www.youtube.com/watch?v=knb7ICiQUbI (Nirvana Interview Canada 1991) https://www.</description>
+dále také rozhovory s Cobainem a Nirvanou, které jsou nahrané na YouTube, např.: https://www.</description>
     </item>
     
   </channel>

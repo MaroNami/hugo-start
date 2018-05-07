@@ -20,6 +20,7 @@
     <header>
       <h1><a href="{{ "/" | relURL }}">{{ .Site.Title }}</a></h1>
       <p class="description">{{ .Site.Params.description }}</p>
+      {{ partial "searchbar.html" . }}
     </header>
 
     <div class="page">

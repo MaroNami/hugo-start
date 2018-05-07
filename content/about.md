@@ -7,6 +7,8 @@ menu:
 ## CÍLOVÁ SKUPINA: 
 lidé, kteří poslouchají Nirvanu a styl hudby grunge, popř. rock, punk, hardcore atd.
 
+<div class="addthis_inline_share_toolbox"></div>
+
 ## CÍL WEBU: 
 přiblížit lidem život Kurta Cobaina a kapelu Nirvana, podrobněji popsat tvorbu kapely a aspekty, které je ovlivňovaly
 
@@ -69,3 +71,5 @@ zamýšlená šablona pro web: https://www.wix.com/website-template/view/html/14
 ## STRATEGIE ZVEŘEJŇOVÁNÍ OBSAHU – JAKÉ INFORMACE A JAKÝM ZPŮSOBEM BUDEME ZVEŘEJŇOVAT?
 
 Po rozdělení výše uvedených dílčích bodů si každý člen naší skupiny nastuduje příslušnou literaturu a další zdroje. Předpokládáme, že v rámci dalších lekcí Nástrojů a možností internetu bude každý týden nutné na tvorbě webu kontinuálně pracovat, proto se této situaci budeme snažit přizpůsobit a nové příspěvky přidávat alespoň 1x týdně.
+
+<!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5aeb8f50ef6a4882"></script>
